@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T02:41:05.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="cOP_NW2_GQ4xnBhSe1aS" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T02:46:12.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-lyXDgwhkAn4KWV4vKKt" version="15.5.4" type="github">
   <diagram id="Vm7ZP5rs8jRLDNb6MC-E" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -260,7 +260,7 @@
           <mxGeometry x="75" y="990" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-66" value="2.3.3.1" style="swimlane;rounded=1;startSize=20;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="290" y="960" width="110" height="80" as="geometry" />
+          <mxGeometry x="260" y="1050" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-67" value="Add to wish list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-66">
           <mxGeometry x="5" y="40" width="100" height="20" as="geometry" />
@@ -272,7 +272,7 @@
           <mxGeometry x="60" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-70" value="2.3.3.3" style="swimlane;rounded=1;startSize=20;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1180" width="220" height="80" as="geometry" />
+          <mxGeometry x="205" y="1250" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-71" value="Delete typical item from user wish list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-70">
           <mxGeometry x="5" y="40" width="210" height="20" as="geometry" />
