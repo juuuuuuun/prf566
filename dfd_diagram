@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T02:32:12.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="kHM2PWFbIfKZM6-Pz8pO" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T02:41:05.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="cOP_NW2_GQ4xnBhSe1aS" version="15.5.4" type="github">
   <diagram id="Vm7ZP5rs8jRLDNb6MC-E" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GTxsR3pPkoHWcQ_coEk8-1" value="User" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-1" value="Customer" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
           <mxGeometry x="75" y="195" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-2" value="2.3.1.1" style="swimlane;rounded=1;startSize=20;arcSize=50;" vertex="1" parent="1">
@@ -13,11 +13,11 @@
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-11" value="Selects Sign Up Button" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-2">
           <mxGeometry x="25" y="40" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GTxsR3pPkoHWcQ_coEk8-8" value="D1" style="swimlane;horizontal=0;rounded=0;startSize=50;" vertex="1" parent="1">
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-8" value="D2" style="swimlane;horizontal=0;rounded=0;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="575" y="250" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GTxsR3pPkoHWcQ_coEk8-14" value="User Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-8">
-          <mxGeometry x="75" y="25" width="100" height="20" as="geometry" />
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-14" value="Customer info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-8">
+          <mxGeometry x="80" y="25" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-10" value="2.3.1.2" style="swimlane;rounded=1;startSize=20;arcSize=50;swimlaneFillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="370" width="220" height="80" as="geometry" />
@@ -182,7 +182,7 @@
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-50" value="3.1.2.2.2&amp;nbsp;&lt;span lang=&quot;EN-US&quot; class=&quot;TextRun SCXW23430180 BCX0&quot; style=&quot;animation: 0s ease 0s 1 normal none running none ; appearance: none ; backface-visibility: visible ; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0 , 0 , 0 , 0) ; border-color: rgb(0 , 0 , 0) ; border-collapse: separate ; border-width: 0px ; border-style: none ; border-spacing: 0px ; border-radius: 0px ; box-shadow: none ; box-sizing: content-box ; caption-side: top ; clear: none ; clip: auto ; content: normal ; cursor: text ; direction: ltr ; display: inline ; empty-cells: show ; float: none ; font-family: &amp;#34;wordvisi_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif ; font-size: 20px ; height: auto ; line-height: 20.7px ; list-style: outside none disc ; margin: 0px ; max-height: none ; max-width: none ; min-height: 0px ; min-width: 0px ; opacity: 1 ; outline: rgb(0 , 0 , 0) none 0px ; overflow: visible ; overflow-wrap: break-word ; padding: 0px ; perspective: none ; perspective-origin: 0px 0px ; position: static ; resize: none ; speak: normal ; table-layout: auto ; text-align: left ; text-indent: 48px ; text-overflow: clip ; text-shadow: none ; transform: none ; transform-origin: 0px 0px ; transform-style: flat ; transition: all 0s ease 0s ; unicode-bidi: normal ; vertical-align: baseline ; visibility: visible ; width: auto ; word-break: normal ; z-index: auto ; zoom: 1&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW23430180 BCX0&quot; style=&quot;font-size: 20px&quot;&gt;Log-in&lt;/span&gt;&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="510" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GTxsR3pPkoHWcQ_coEk8-51" value="User" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-51" value="Customer" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
           <mxGeometry x="75" y="635" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-52" value="2.3.2.1" style="swimlane;rounded=1;startSize=20;arcSize=50;" vertex="1" parent="1">
@@ -191,11 +191,11 @@
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-53" value="Selects Log In" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-52">
           <mxGeometry x="50" y="40" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GTxsR3pPkoHWcQ_coEk8-54" value="D1" style="swimlane;horizontal=0;rounded=0;startSize=50;" vertex="1" parent="1">
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-54" value="D2" style="swimlane;horizontal=0;rounded=0;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="600" y="725" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GTxsR3pPkoHWcQ_coEk8-55" value="User Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-54">
-          <mxGeometry x="75" y="25" width="100" height="20" as="geometry" />
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-55" value="Customer info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-54">
+          <mxGeometry x="80" y="25" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-56" value="" style="endArrow=classic;html=1;rounded=1;shadow=0;sketch=0;fontSize=20;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=120;exitDy=45;exitPerimeter=0;" edge="1" parent="1" source="GTxsR3pPkoHWcQ_coEk8-51" target="GTxsR3pPkoHWcQ_coEk8-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -256,8 +256,38 @@
         <mxCell id="GTxsR3pPkoHWcQ_coEk8-64" value="3.1.2.2.3&amp;nbsp;&lt;span lang=&quot;EN-US&quot; class=&quot;TextRun SCXW23430180 BCX0&quot; style=&quot;animation: 0s ease 0s 1 normal none running none ; appearance: none ; backface-visibility: visible ; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0 , 0 , 0 , 0) ; border-color: rgb(0 , 0 , 0) ; border-collapse: separate ; border-width: 0px ; border-style: none ; border-spacing: 0px ; border-radius: 0px ; box-shadow: none ; box-sizing: content-box ; caption-side: top ; clear: none ; clip: auto ; content: normal ; cursor: text ; direction: ltr ; display: inline ; empty-cells: show ; float: none ; font-family: &amp;#34;wordvisi_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif ; font-size: 20px ; height: auto ; line-height: 20.7px ; list-style: outside none disc ; margin: 0px ; max-height: none ; max-width: none ; min-height: 0px ; min-width: 0px ; opacity: 1 ; outline: rgb(0 , 0 , 0) none 0px ; overflow: visible ; overflow-wrap: break-word ; padding: 0px ; perspective: none ; perspective-origin: 0px 0px ; position: static ; resize: none ; speak: normal ; table-layout: auto ; text-align: left ; text-indent: 48px ; text-overflow: clip ; text-shadow: none ; transform: none ; transform-origin: 0px 0px ; transform-style: flat ; transition: all 0s ease 0s ; unicode-bidi: normal ; vertical-align: baseline ; visibility: visible ; width: auto ; word-break: normal ; z-index: auto ; zoom: 1&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW23430180 BCX0&quot; style=&quot;font-size: 20px&quot;&gt;Wish List&lt;/span&gt;&lt;/span&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="25" y="870" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GTxsR3pPkoHWcQ_coEk8-65" value="User" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-65" value="Customer" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
           <mxGeometry x="75" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-66" value="2.3.3.1" style="swimlane;rounded=1;startSize=20;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="960" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-67" value="Add to wish list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-66">
+          <mxGeometry x="5" y="40" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-68" value="2.3.3.2" style="swimlane;rounded=1;startSize=20;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1000" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-69" value="Check wish list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-68">
+          <mxGeometry x="60" y="40" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-70" value="2.3.3.3" style="swimlane;rounded=1;startSize=20;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1180" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-71" value="Delete typical item from user wish list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-70">
+          <mxGeometry x="5" y="40" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-75" value="D4" style="swimlane;horizontal=0;rounded=0;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1160" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-76" value="Food List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-75">
+          <mxGeometry x="95" y="25" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-77" value="D2" style="swimlane;horizontal=0;rounded=0;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1270" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GTxsR3pPkoHWcQ_coEk8-78" value="Customer info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="GTxsR3pPkoHWcQ_coEk8-77">
+          <mxGeometry x="80" y="25" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
