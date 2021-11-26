@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T19:05:05.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dRzCrWJBcJlcCZRv9V1N" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T19:20:37.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Y3owOLcS4zA3spz-_Nlo" version="15.8.3" type="github">
   <diagram id="bQ9aRvcoyAfyGHdNT-MZ" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,8 +145,8 @@
         <mxCell id="ESut_bvNTGMEkcxOXkCT-38" value="1.1.4 Reward" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="490" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ESut_bvNTGMEkcxOXkCT-39" value="1.1.1.2 Update account profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="550" width="120" height="40" as="geometry" />
+        <mxCell id="ESut_bvNTGMEkcxOXkCT-39" value="1.1.1.3 Update account profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ESut_bvNTGMEkcxOXkCT-40" value="1.1.2.2 User review the order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="550" width="120" height="40" as="geometry" />
@@ -167,12 +167,6 @@
           <mxGeometry x="180" y="610" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ESut_bvNTGMEkcxOXkCT-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ESut_bvNTGMEkcxOXkCT-12" target="ESut_bvNTGMEkcxOXkCT-35">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="520" as="sourcePoint" />
-            <mxPoint x="470" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ESut_bvNTGMEkcxOXkCT-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ESut_bvNTGMEkcxOXkCT-35" target="ESut_bvNTGMEkcxOXkCT-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="520" as="sourcePoint" />
             <mxPoint x="470" y="470" as="targetPoint" />
@@ -205,14 +199,8 @@
             <mxPoint x="440" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESut_bvNTGMEkcxOXkCT-56" value="1.2.1.2 Update account profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="550" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ESut_bvNTGMEkcxOXkCT-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ESut_bvNTGMEkcxOXkCT-54" target="ESut_bvNTGMEkcxOXkCT-56">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="460" as="sourcePoint" />
-            <mxPoint x="440" y="410" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ESut_bvNTGMEkcxOXkCT-56" value="1.2.1.3 Update account profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ESut_bvNTGMEkcxOXkCT-58" value="1.1.2.1 User Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="490" width="120" height="40" as="geometry" />
@@ -236,6 +224,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ESut_bvNTGMEkcxOXkCT-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ESut_bvNTGMEkcxOXkCT-59" target="ESut_bvNTGMEkcxOXkCT-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ESut_bvNTGMEkcxOXkCT-64" value="1.1.1.2 Create account profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ESut_bvNTGMEkcxOXkCT-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ESut_bvNTGMEkcxOXkCT-65" target="ESut_bvNTGMEkcxOXkCT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESut_bvNTGMEkcxOXkCT-65" value="1.2.1.2 Create account profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ESut_bvNTGMEkcxOXkCT-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ESut_bvNTGMEkcxOXkCT-35" target="ESut_bvNTGMEkcxOXkCT-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ESut_bvNTGMEkcxOXkCT-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ESut_bvNTGMEkcxOXkCT-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="590" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ESut_bvNTGMEkcxOXkCT-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ESut_bvNTGMEkcxOXkCT-54" target="ESut_bvNTGMEkcxOXkCT-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="460" as="sourcePoint" />
             <mxPoint x="440" y="410" as="targetPoint" />
